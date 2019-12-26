@@ -8,13 +8,13 @@ This app is built taking help from a [Medium article](https://medium.com/better-
 
 I deployed my fruit classifier model a mobile app and also on web app
 
-## [Web App:](https://fruit-classifier-5wxr.onrender.com/)
+## [Web App](https://fruit-classifier-5wxr.onrender.com/)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/29728855/71475159-0e6a0c80-2805-11ea-8484-dfbb3a0b50bc.png">
 </p>
 
 
-## Mobile App:
+## [Mobile App](https://github.com/dnmanveet/fruit_classifier_app/releases)
 <p align="left">
   <img width="280" height="500" src="https://user-images.githubusercontent.com/29728855/71475291-905a3580-2805-11ea-88d8-18855ab030ad.jpg">
   <img width="280" height="500" src="https://user-images.githubusercontent.com/29728855/71475309-a0721500-2805-11ea-94e0-4ea428dc6f06.jpg">
