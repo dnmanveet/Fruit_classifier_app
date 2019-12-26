@@ -1,16 +1,27 @@
-# fruit_classifier_app
+# Fruit_classifier_app
 
-A new Flutter application.
+This is an extension to [Fruit-Classification](https://github.com/dnmanveet/Fruit-Classification)
 
-## Getting Started
+This is the app built using Flutter a tool which is very much using in deploying Android and IOS apps.
 
-This project is a starting point for a Flutter application.
+This app is built taking help from a [Medium article](https://medium.com/better-programming/how-to-make-a-cross-platform-image-classifying-app-with-flutter-and-fastai-2a6af6701535)
 
-A few resources to get you started if this is your first Flutter project:
+I deployed my fruit classifier model a mobile app and also on web app
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## [Web App:](https://fruit-classifier-5wxr.onrender.com/)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/29728855/71475159-0e6a0c80-2805-11ea-8484-dfbb3a0b50bc.png">
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Mobile App:
+<p align="left">
+  <img width="280" height="500" src="https://user-images.githubusercontent.com/29728855/71475291-905a3580-2805-11ea-88d8-18855ab030ad.jpg">
+  <img width="280" height="500" src="https://user-images.githubusercontent.com/29728855/71475309-a0721500-2805-11ea-94e0-4ea428dc6f06.jpg">
+  <img width="280" height="500" src="https://user-images.githubusercontent.com/29728855/71475310-a10aab80-2805-11ea-9d79-d1807f87adab.jpg">
+</p>
+<p align="left">
+  <img width="280" height="500" src="https://user-images.githubusercontent.com/29728855/71475311-a10aab80-2805-11ea-8de1-018ffc89a419.jpg">
+  <img width="280" height="500" src="https://user-images.githubusercontent.com/29728855/71475312-a10aab80-2805-11ea-8b54-5e77756223be.jpg">
+  <img width="280" height="500" src="https://user-images.githubusercontent.com/29728855/71475313-a1a34200-2805-11ea-85f9-bec4c3c05843.jpg">
+</p>
